@@ -27,8 +27,8 @@ function logWhisper(string) {
   }
   
   function sayHiToGrandma(string) {
-  lowercase = string.toLowerCase();
-  string = lowercase;
-  console.log(lowercase);
+  uppercase = string.toUpperCase();
+  string = uppercase;
+  console.log(uppercase);
   
   }
