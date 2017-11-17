@@ -1,6 +1,6 @@
 
-var = uppercase
-var = lowercase
+var = uppercase, lowercase
+
 
 function shout(string) {
   return string.toUpperCase()
